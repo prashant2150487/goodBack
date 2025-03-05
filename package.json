@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "build": "mkdir -p dist && cp -r index.js package.json .env dist/"
+    "build": "mkdir -p dist && cp -r index.js package.json dist/"
   },
   "keywords": [],
   "author": "",
